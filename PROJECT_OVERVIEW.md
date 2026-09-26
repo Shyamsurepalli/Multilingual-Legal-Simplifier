@@ -1,6 +1,6 @@
-# ⚖️ LegalEase — AI-Powered Multilingual Legal Document Simplifier
+# Multilingual Legal Document Simplifier
 
-LegalEase is an innovative AI-driven digital assistant designed to bridge the gap between complex legal jargon ("legalese") and the average citizen. By leveraging advanced artificial intelligence, LegalEase parses complex legal contracts, agreements, and policies, translating them into simplified, plain language and uncovering hidden risks. 
+Multilingual is an innovative AI-driven digital assistant designed to bridge the gap between complex legal jargon ("legalese") and the average citizen. By leveraging advanced artificial intelligence, LegalEase parses complex legal contracts, agreements, and policies, translating them into simplified, plain language and uncovering hidden risks. 
 
 Whether it is a rental agreement, an employment contract, or a non-disclosure agreement (NDA), LegalEase gives users the power to understand what they are signing—without needing a lawyer.
 
