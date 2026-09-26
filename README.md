@@ -1,6 +1,7 @@
-# ⚖️ LegalEase — AI-Powered Multilingual Legal Document Simplifier
 
-> **LegalEase** is a web-based, AI-driven legal assistant that allows everyday users to upload complex legal documents in various formats (PDF, DOCX, or scanned Images) and receive an instant, plain-language summary, risk analysis with mitigations, and key terms in their chosen target language (supporting 20+ languages). It also offers an interactive RAG-based chat to ask questions directly about their documents.
+# Multilingual Legal Simplifier
+
+> **Multilingual Legal Simplifier** is a web-based, AI-driven legal assistant that allows everyday users to upload complex legal documents in various formats (PDF, DOCX, or scanned Images) and receive an instant, plain-language summary, risk analysis with mitigations, and key terms in their chosen target language (supporting 20+ languages). It also offers an interactive RAG-based chat to ask questions directly about their documents.
 
 ---
 
@@ -204,4 +205,4 @@ cd multilingual_legal_simplifier
 
 ## ⚠️ Disclaimer
 
-LegalEase is for informational and educational purposes only. The summary, analysis, and recommendations provided by the AI do not constitute official legal advice. Users should always consult with a certified attorney or legal professional before signing or executing any legal agreements.
+Multilingual legal simplifier is for informational and educational purposes only. The summary, analysis, and recommendations provided by the AI do not constitute official legal advice. Users should always consult with a certified attorney or legal professional before signing or executing any legal agreements.
